@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "sipecam-visualizaciones"
+  site-url: "https://rausial.github.io/sipecam-visualizaciones"
+  description: "Notebooks de visualización para datos SIPECAM"
+  repo-branch: main
+  repo-url: "https://github.com/rausial/sipecam-visualizaciones"
